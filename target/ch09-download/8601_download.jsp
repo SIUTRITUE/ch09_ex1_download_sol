@@ -26,17 +26,17 @@
     <tr>
         <td>MP3</td>
         <td>320 kbps</td>
-        <td><a href="/musicStore/sound/${productCode}/hong_nhan_320.mp3">Tải MP3 chất lượng cao</a></td>
+        <td><a href="sound/${productCode}/hong_nhan_320.mp3">Tải MP3 chất lượng cao</a></td>
     </tr>
     <tr>
         <td>MP3</td>
         <td>128 kbps</td>
-        <td><a href="/musicStore/sound/${productCode}/hong_nhan_128.mp3">Tải MP3 chất lượng thường</a></td>
+        <td><a href="sound/${productCode}/hong_nhan_128.mp3">Tải MP3 chất lượng thường</a></td>
     </tr>
     <tr>
         <td>FLAC</td>
         <td>Lossless</td>
-        <td><a href="/musicStore/sound/${productCode}/hong_nhan.flac">Tải FLAC không mất chất lượng</a></td>
+        <td><a href="sound/${productCode}/hong_nhan.flac">Tải FLAC không mất chất lượng</a></td>
     </tr>
     </table>
 
