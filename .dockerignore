@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+*.iml
+.vscode
+
+# Maven
+target/classes
+target/test-classes
+target/maven-status
+target/maven-archiver
+target/generated-sources
+target/generated-test-sources
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# NetBeans legacy files
+build.xml
+nbproject/
+build/
