@@ -14,9 +14,6 @@ ENV PATH $CATALINA_HOME/bin:$PATH
 # Copy WAR file
 COPY target/ch09-download.war $CATALINA_HOME/webapps/ROOT.war
 
-# Create data directory for user files
-RUN mkdir -p $CATALINA_HOME/webapps/ROOT/WEB-INF/etc
-
 # Expose port
 EXPOSE 8080
 
